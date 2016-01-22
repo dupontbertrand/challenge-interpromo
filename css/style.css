@@ -1,20 +1,12 @@
 body {
   background-color: grey;
 }
-
-
-
 .textmiddle {
   display: inline-block;
 }
 .imgmiddle {
   display: inline-block;
 }
-
-
-
-
-
 #global {
   background-color: black;
 }
