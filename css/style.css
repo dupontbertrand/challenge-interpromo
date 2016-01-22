@@ -1,0 +1,67 @@
+body {
+  background-color: grey;
+}
+
+
+
+.textmiddle {
+  display: inline-block;
+}
+.imgmiddle {
+  display: inline-block;
+}
+
+
+
+
+
+#global {
+  background-color: black;
+}
+footer {
+  height: 350px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+.titlefooter {
+  font-size: 35px;
+  color: grey;
+}
+ul {
+  list-style: none;
+  margin-top: 80px;
+  font-size: 20px;
+}
+#global li {
+  margin-top: 15px;
+}
+#gauche {
+  display: inline-block;
+  margin-left: 400px;
+}
+#milieu {
+  display: inline-block;
+  margin-left: 70px;
+}
+#droit {
+  display: inline-block;
+  margin-left: 70px;
+}
+#droit .fa {
+  margin-left: 20px;
+}
+#dessous {
+  margin-top: 50px;
+}
+#dessous a {
+  color: white;
+}
+#dessous p {
+  margin-left: 430px;
+  font-size: 15px;
+  display: inline-block;
+}
+#dessous img {
+  display: inline-block;
+  margin-left: 50px;
+}
